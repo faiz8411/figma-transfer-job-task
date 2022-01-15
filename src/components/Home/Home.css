@@ -1,0 +1,9 @@
+.home-page{
+    /* background-image: url('https://i.ibb.co/WW6p4j4/Ellipse-118.jpg'); */
+    background-color: rgb(219, 253, 28);
+    margin-left: 50px;
+    margin-bottom: 100px;
+    overflow-x: visible;
+
+    background-repeat: no-repeat;
+}

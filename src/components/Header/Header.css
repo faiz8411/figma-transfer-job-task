@@ -1,0 +1,46 @@
+.banner-container{
+    margin-top: 50px;
+}
+
+/* .images{
+    width: 250px;
+    height: 250px;
+    border-radius: 100;
+} */
+.images{
+    position: relative;
+    width: 483.41px;
+    height: 521.95px;
+    border-radius: 50%;
+}
+.input-box{
+    width: 412px;
+    height: 55px;
+    /* margin-right: 90px; */
+    /* left: 40px;
+    top: 683.84px; */
+}
+.button{
+position: absolute;
+width:100px;
+height: 55px;
+margin-left: 10px;
+border: none;
+border-radius: 10px;
+/* margin-top: 2px; */
+/* margin-right: 120px; */
+
+background-color: rgb(32, 32, 32);
+color: wheat;
+}
+.img-pata{
+    height: 125px;
+    
+    width: 95px;
+    left: 554.000244140625px;
+    top: 854.83642578125px;
+    border-radius: 0px;
+    
+    Offset: 4px, 4px
+rgba(0, 0, 0, 0.2)
+}
