@@ -87,14 +87,19 @@ rgba(0, 0, 0, 0.2)
 
 }
 .banner-section .leaf.leaf-3{
-    background-image: url("https://i.ibb.co/fr3bvxX/mint-png-2-2.png");
-    left: 20%;
+    background-image: url("https://i.ibb.co/wsn3XP4/mint-png-4-1.png");
+    height: 95px;
+    width: 115px;
+    left: 25%;
     top: auto;
     bottom: -300px;
+    margin-bottom: 400px;
+   
+   
 }
 .banner-section .leaf.leaf-4{
-    background-image: url("https://i.ibb.co/fr3bvxX/mint-png-2-2.png");
-    left: 18%;
+    background-image: url("https://i.ibb.co/kqCHXy7/mint-png-3.png");
+    left: 25%;
     top: auto;
     bottom: -300px;
 }
