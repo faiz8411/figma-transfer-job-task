@@ -31,7 +31,7 @@ const Header = () => {
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur quae ipsum ab optio.</p>
 
                             <div>
-                                <input type="text" className='input-box' /> <button className='button'>search</button>
+                                <input type="text" className='input-box' /> <button className='button'>Find</button>
                             </div>
                             <div>
                                 <img className='img-pata' src="https://i.ibb.co/CMWJm9Z/mint-png-2.png" alt="" />
