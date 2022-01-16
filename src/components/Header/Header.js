@@ -7,7 +7,7 @@ const Header = () => {
         <div className='home-page'>
             <Navbar bg="" expand="lg">
                 <Container>
-                    <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
+                    <Navbar.Brand href="#home">ETANAN</Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav " className='me-end'>
                         <Nav className="me-auto">
@@ -21,22 +21,32 @@ const Header = () => {
                 </Container>
             </Navbar>
 
-            <div>
+            <div className='banner-section'>
+                <div className='leaf-1 leaf'></div>
+                <div className='leaf-2 leaf'></div>
+                <div className='leaf-3 leaf'></div>
+                <div className='leaf-4 leaf'></div>
+                <div className='leaf-5 leaf'></div>
                 <Container>
                     <Row>
 
                         <Col>
-                            <img className='img-pata' src="https://i.ibb.co/CMWJm9Z/mint-png-2.png" alt="" />
-                            <h2 className='banner-container'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo?</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur quae ipsum ab optio.</p>
+                            <div>
+
+                                <div className='banner-container' style={{ textAlign: 'left', marginLeft: '150px' }}>
+                                    <h2 className=''>YOUR FAVOURITE FOOD </h2>           <br />
+                                    <h2 className='mb-3'>DELIVERED TO YOU</h2>
+                                </div>
+                            </div>
+                            <div style={{ textAlign: 'left', marginLeft: '150px' }}>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <br /> Aspernatur quae ipsum ab optio  </p>
+                                <p>.</p>
+                            </div>
 
                             <div>
                                 <input type="text" className='input-box' /> <button className='button'>Find</button>
                             </div>
-                            <div>
-                                <img className='img-pata' src="https://i.ibb.co/CMWJm9Z/mint-png-2.png" alt="" />
-                                <img className='img-pata' src="https://i.ibb.co/CMWJm9Z/mint-png-2.png" alt="" />
-                            </div>
+
                         </Col>
                         <Col xs={5}>
                             <img className='images' src="https://i.ibb.co/g3Km7t5/joshua-ryder-I51a7-Yy7m-QA-unsplash-2.jpg" alt="" />

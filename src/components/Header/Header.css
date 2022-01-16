@@ -1,5 +1,5 @@
 .banner-container{
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 /* .images{
@@ -42,7 +42,65 @@ color: white;
     left: 554.000244140625px;
     top: 854.83642578125px;
     border-radius: 0px;
-    
+    right: 40px;
     Offset: 4px, 4px
 rgba(0, 0, 0, 0.2)
+}
+.img-lota{
+    height: 125px;
+    
+    width: 95px;
+    left: 554.000244140625px;
+    top: 854.83642578125px;
+    border-radius: 0px;
+    right: 40px;
+    Offset: 4px, 4px
+rgba(0, 0, 0, 0.2)
+}
+
+.banner-section{
+    position: relative;
+    /* margin-top: 100px; */
+    margin-top: 100px;
+
+}
+.banner-section .leaf{
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    width: 200px;
+    height: 100%;
+    left: 0;
+    top: 0;
+    z-index: 1;
+}
+.banner-section .leaf.leaf-1{
+    background-image: url("https://i.ibb.co/fr3bvxX/mint-png-2-2.png");
+    left: 200px;
+    top: -120px;
+}
+.banner-section .leaf.leaf-2{
+    background-image: url("https://i.ibb.co/fr3bvxX/mint-png-2-2.png");
+    right: 0;
+    top: 0;
+    left: auto;
+
+}
+.banner-section .leaf.leaf-3{
+    background-image: url("https://i.ibb.co/fr3bvxX/mint-png-2-2.png");
+    left: 20%;
+    top: auto;
+    bottom: -300px;
+}
+.banner-section .leaf.leaf-4{
+    background-image: url("https://i.ibb.co/fr3bvxX/mint-png-2-2.png");
+    left: 18%;
+    top: auto;
+    bottom: -300px;
+}
+.banner-section .leaf.leaf-5{
+    background-image: url("https://i.ibb.co/fr3bvxX/mint-png-2-2.png");
+    left: -10%;
+    top: 100px;
+
 }
