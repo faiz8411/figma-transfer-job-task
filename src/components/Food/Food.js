@@ -16,25 +16,25 @@ const Food = () => {
             <div>
                 <Row>
                     <Col xs={12} md={4}>
-                        <img className='food-image' src="https://i.ibb.co/g3Km7t5/joshua-ryder-I51a7-Yy7m-QA-unsplash-2.jpg" alt="" />
+                        <img className='food-image' src="https://i.ibb.co/4N6Nx84/fish-2.png" alt="" />
                     </Col>
                     <Col xs={12} md={4}>
-                        <img className='food-image' src="https://i.ibb.co/g3Km7t5/joshua-ryder-I51a7-Yy7m-QA-unsplash-2.jpg" alt="" />
+                        <img className='food-image' src="https://i.ibb.co/7SpdBBY/Bratwurst-Sampler-Platter-1.png" alt="" />
                     </Col>
                     <Col xs={12} md={4}>
-                        <img className='food-image' src="https://i.ibb.co/g3Km7t5/joshua-ryder-I51a7-Yy7m-QA-unsplash-2.jpg" alt="" />
+                        <img className='food-image' src="https://i.ibb.co/WKWr9V5/Die-perfekte-vegane-Pizza-Eat-this-Foodblog-Vegane-Rezepte-Stories-1.png" alt="" />
                     </Col>
 
                 </Row>
                 <Row>
                     <Col xs={12} md={4}>
-                        <img className='food-image' src="https://i.ibb.co/g3Km7t5/joshua-ryder-I51a7-Yy7m-QA-unsplash-2.jpg" alt="" />
+                        <img className='food-image' src="https://i.ibb.co/xz8mgZm/20-min-Chicken-Fried-Rice.png" alt="" />
                     </Col>
                     <Col xs={12} md={4}>
-                        <img className='food-image' src="https://i.ibb.co/g3Km7t5/joshua-ryder-I51a7-Yy7m-QA-unsplash-2.jpg" alt="" />
+                        <img className='food-image' src="https://i.ibb.co/Fx5ZGg6/4ed188a3-8cae-4bac-a0dd-785231cf01a5.jpg" alt="" />
                     </Col>
                     <Col xs={12} md={4}>
-                        <img className='food-image' src="https://i.ibb.co/g3Km7t5/joshua-ryder-I51a7-Yy7m-QA-unsplash-2.jpg" alt="" />
+                        <img className='food-image' src="https://i.ibb.co/BZh51TS/Easy-Vegan-Egg-Rolls-Full-of-Plants.png" alt="" />
 
                     </Col>
                 </Row>

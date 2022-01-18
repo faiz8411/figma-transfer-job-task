@@ -15,8 +15,8 @@ const Header = () => {
                             <Nav.Link href="#link">Link</Nav.Link>
 
                         </Nav>
-                        <Navbar.Brand href="#home">registration</Navbar.Brand>
-                        <Navbar.Brand href="#home">login</Navbar.Brand>
+                        <Navbar.Brand href="#home">English</Navbar.Brand>
+                        <Navbar.Brand href="#home"><button className='bg-warning rounded'>sign In</button></Navbar.Brand>
                     </Navbar.Collapse>
                 </Container>
             </Navbar>
@@ -44,7 +44,8 @@ const Header = () => {
                             </div>
 
                             <div>
-                                <input type="text" className='input-box' /> <button className='button'>Find</button>
+                                {/* <input type="text" className='input-box' /> <button className='button'>Find</button> */}
+                                <input className='p-3 bg-white border-0' type="text" /> <button className='p-3  m-2 bg-black text-white border-0 rounded'>Find</button>
                             </div>
 
                         </Col>

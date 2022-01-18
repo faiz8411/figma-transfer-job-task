@@ -14,16 +14,16 @@
     border-radius: 50%;
 }
 .input-box{
-    width: 412px;
+    width: 90px;
     height: 55px;
     border: none;
     border-radius: 5px;
-    /* margin-right: 90px; */
+    margin-right: 90px;
     /* left: 40px;
     top: 683.84px; */
 }
 .button{
-position: absolute;
+position:relative;
 width:100px;
 height: 55px;
 margin-left: 10px;
