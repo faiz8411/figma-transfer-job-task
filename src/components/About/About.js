@@ -20,8 +20,12 @@ const About = () => {
                     </div>
                     <p className='about-para'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt obcaecati quaerat minima, culpa aliquid nobis fugiat provident laudantium voluptatum quibusdam dolorem, aspernatur debitis eos molestiae corporis nihil, cumque atque maxime! Mollitia veniam illum minus modi laborum corrupti quos eos. Magni nobis amet maxime doloribus iste magnam architecto nihil voluptatem nisi?</p>
                 </div>
+                <div className='about-div'>
+
+                </div>
 
             </div>
+
         </div>
     );
 };

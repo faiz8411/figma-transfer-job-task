@@ -1,0 +1,29 @@
+/*  */
+.mobile{
+    position: relative;
+    width: 500px;
+    height: 500.44px;
+    background-color: yellow;
+    border-radius: 50%;
+    padding: -30px;
+    left: -200px;
+    margin-top: 200px;
+    padding: 100px;
+    /* background: linear-gradient(181.66deg, #c2b848 29.97%, #FFD100 97.03%); */
+    /* filter: blur(26px); */
+    /* transform: matrix(0.55, 0.84, 0.84, -0.15, 0, 0); */
+}
+.text-pera{
+    text-align: left;
+    font-weight: 700;
+}
+
+.div-playlist{
+    width: 50px;
+    display: flex;
+    background-color: black;
+    border: 1px solid black;
+    color: blanchedalmond;
+    margin-top: 10px;
+    border-radius: 10px;
+}

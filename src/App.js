@@ -11,6 +11,10 @@ import Home from './components/Home/Home';
 import Food from './components/Food/Food';
 import Collage from './components/Collage/Collage';
 import About from './components/About/About';
+import Services from './components/Services/Services';
+import Partner from './components/Partner/Partner';
+import Download from './components/Download/Download';
+import Footer from './components/Footer/Footer';
 
 function App() {
 
@@ -20,6 +24,10 @@ function App() {
       <Food></Food>
       <Collage></Collage>
       <About></About>
+      <Services></Services>
+      <Partner></Partner>
+      <Download></Download>
+      <Footer></Footer>
     </div>
   );
 }

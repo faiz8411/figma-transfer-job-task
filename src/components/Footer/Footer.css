@@ -1,0 +1,22 @@
+.foot-container{
+    background-color: black;
+}
+
+.brand{
+    color: blanchedalmond;
+    text-align: left;
+    margin-left: 20px;
+}
+.footer-lorem{
+    text-align: left;
+    color: cornsilk;
+    margin-left: 20px;
+}
+.line-footer{
+    border-left: 2px solid rgb(243, 247, 243);
+  height: 300px;
+}
+.dicod{
+    background-color: black;
+    height: 120px;
+}

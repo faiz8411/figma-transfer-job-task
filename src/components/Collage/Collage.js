@@ -7,9 +7,9 @@ const Collage = () => {
 
             <h5 className='heading'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, amet.</h5>
             <div className="row image-gallery">
-                <div className="col-4 frack-div" >
+                <div className="col-4" >
                     <img className='frankfruite' src="https://i.ibb.co/Yf23ftR/pexels-sasha-prasastika-2825384.jpg" alt="" />
-                    <h5 className='text-frank mx-3'>franckfruit</h5>
+                    <h5 className=' mb-3'>franckfruit</h5>
                 </div>
                 <div className="col-8">
                     <div className="row">
